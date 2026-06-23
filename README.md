@@ -2,4 +2,4 @@
 
 <img alt="abb" src ="https://img.shields.io/badge/abb-FF000F.svg?&style=for-the-badge&logo=abb&logoColor=black"/>
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=python&logoColor=white"/>
